@@ -1,0 +1,35 @@
+/* Estilo para el fondo del GridPane */
+.grid-pane {
+    -fx-background-color: #333333;
+}
+
+/* Estilo para los botones de película */
+.movie-button {
+    -fx-background-color: #FFA500;
+}
+
+/* Estilo para el título de película al lado del botón */
+.title-box {
+    -fx-font-family: "Arial";
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #FFFFFF;
+}
+
+/* Estilo para los botones de título de película */
+.title-button {
+    -fx-font-family: "Arial";
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #FFFFFF;
+}
+
+/* Estilo para la barra de desplazamiento */
+.scroll-pane {
+    -fx-background-color: #444444;
+}
+
+/* Estilo para la escena principal */
+.main-scene {
+    -fx-background-color: #000000;
+}
